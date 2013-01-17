@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="app_name">ActionLogCreate</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="btn_select">SelectModel</string>
+    <string name="btn_move">Move</string>
+    <string name="btn_rotate">Ratate</string>
+    <string name="btn_scale">Scale</string>
+    <string name="btn_capture">SCapture</string>
+    <string name="txt_selected">SelectedModel:</string>
+    <string name="txt_modechange">ModeChange</string>
+    <string name="txt_log">Log:</string>
+    <string name="txt_filename">UserActionLog</string>
+
+</resources>
